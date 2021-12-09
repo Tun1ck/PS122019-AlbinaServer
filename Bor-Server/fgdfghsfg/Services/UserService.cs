@@ -1,11 +1,4 @@
-﻿using Albina.BusinesLogic.Core.Interfaces;
-using Albina.BusinesLogic.Core.Models;
-using AutoMapper;
-using Bor.DataAccess.Core.Interfaces;
-using Bor.DataAccess.Core.Models;
-using Microsoft.EntityFrameworkCore;
-using Shareds.Exceptions;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
